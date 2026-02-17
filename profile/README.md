@@ -1,6 +1,6 @@
 ![Lotus Header](lotus_header.jpeg)
 
-## Lotus
+## 𑁍 Lotus
 
 Lotus is an onchain lending protocol that lets lenders and borrowers meet on a risk curve inside a single market. Instead of creating separate pools for every risk setting, Lotus uses tranches to offer multiple risk levels while keeping liquidity connected.
 
